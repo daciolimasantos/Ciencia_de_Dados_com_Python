@@ -1,0 +1,9 @@
+METODO DE ORGANIZAÇÃO DE PROJETOS/DASHBOARD
+
+PASTAS MACROS:
+
+A - Assets/Recursos (tudo que é recurso do dashboard fica nessa pasta macro)
+B - Bases (data bases em geral) Extract
+C - Cálculos (meio de campo que processa dados para transformação de informações) Transform
+D - Dashboard (painel visual) Load
+E - Extras (material de apoio ou elementos não tradicionais)

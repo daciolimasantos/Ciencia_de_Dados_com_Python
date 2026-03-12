@@ -1,0 +1,16 @@
+def sacar(valor):
+    saldo_1 = 9999
+
+    if saldo_1 >= valor:
+        print("valor sacado!")
+        print('retire seu dinheiro na maquina.')
+    
+    print('obrigado por investir conosco.')
+
+def depositar(valor_2):
+    saldo_2 = 8999
+    saldo_2 += valor_2
+    print (f'seu saldo atual é: R$ {valor_2}')
+
+sacar(100)
+depositar(15000000)

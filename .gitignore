@@ -1,0 +1,14 @@
+__pycache__/
+*.exe
+*.zip
+*.rar
+*.7z
+*.iso
+*.dll
+*.msi
+*.db
+*.csv
+*.xlsx
+.env
+.vscode/
+.idea/
